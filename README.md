@@ -3,6 +3,7 @@
 A lightweight Chrome extension that estimates your Canvas grade when the course total is hidden or disabled.
 
 This extension runs locally in your browser and helps students calculate their current grade using Canvas assignment groups, weights, scores, and what-if inputs.
+<img width="406" height="834" alt="image" src="https://github.com/user-attachments/assets/d72fd826-7ff9-4eec-85ad-49bc945eddba" />
 
 ## Features
 
